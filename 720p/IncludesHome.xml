@@ -11,7 +11,7 @@
 		      <include>HomeSlideAnimations</include>
 				  <control type="image">
 		        <include>FullscreenDimensions</include>
-						<texture background="true">windows/bg/colors_pulse.png</texture>
+						<texture background="true">special://skin/extras/backgrounds/YOUR-TEXTURE-FILENAME</texture> 
 						<visible>!Skin.HasSetting(HomeMenuAnimation)</visible>
 					</control>
           <control type="image">
